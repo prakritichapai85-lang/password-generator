@@ -20,7 +20,7 @@ A simple and secure random password generator built using Python.
 3. Run the following command:
 
 ```bash
-python password_generator.py
+python passwordgenerator.py
 ```
 
 ## Technologies Used
@@ -29,7 +29,5 @@ python password_generator.py
 - String Module
 
 ## Author
-Your Name
+Prakriti Chapai
 
-## License
-MIT License
